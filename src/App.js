@@ -13,7 +13,6 @@ import { takeScreenshot } from './utils/helpers';
 import './App.css';
 
 // Import Material-UI icons
-import BatteryCharging20Icon from '@mui/icons-material/BatteryCharging20';
 import Battery6BarIcon from '@mui/icons-material/Battery6Bar';
 import FiveGIcon from '@mui/icons-material/FiveG';
 import SignalCellularAltIcon from '@mui/icons-material/SignalCellularAlt';
